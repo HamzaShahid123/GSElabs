@@ -1,0 +1,48 @@
+Lab02 - Energy Measurements
+---------------------------
+Started: [hamza shahid + 24 apr 14:57]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------
+Lab 04 – Section 4: Effect of Hardware on Energy Consumption
+
+Machine: errai
+CPU: Intel Core i9-14900
+Power profile: balanced
+Compiler: gcc -O0
+Matrix size: 3072
+
+Run 1:
+- Frobenius norm: 2.58459e+07
+- Time: 3:45.12
+- Energy: 1,672,348,712 µJ
+
+Run 2:
+- Frobenius norm: 2.58459e+07
+- Time: 3:43.94
+- Energy: 1,654,782,019 µJ
+
+Run 3:
+- Frobenius norm: 2.58459e+07
+- Time: 3:48.63
+- Energy: 1,683,551,
+
